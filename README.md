@@ -1,4 +1,5 @@
-# MOTEUR-DE-RECHERCHE-CODE-PENAL-FRANCAIS ( sur reseau local // localhost:8500 ) 
+# MOTEUR-DE-RECHERCHE-CODE-PENAL-FRANCAIS 
+( sur reseau local // localhost:8500 ) 
 
 ( Cet outil est à vocation pédagogique et informative. Pour une application juridique précise, consultez les textes officiels sur Legifrance. Données générées pour simulation) .
 
